@@ -40,6 +40,7 @@ In addition, the company has outlined several potential challenges that your mod
 - Lead Score Case Study.ipynb: The Jupyter notebook containing the code and data analysis.
 - Assignment Subjective Questions.pdf: A document with responses to subjective questions.
 - Lead Score Case Study.pdf: The final presentation summarizing the project.
+- Summary.pdf: A summary document outlining the key steps and outcomes of the Python file.
 
 
 
